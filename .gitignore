@@ -1,0 +1,8 @@
+.pyc
+.DS_Store
+.swp
+.vscode
+
+build
+node_modules
+venv
